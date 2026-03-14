@@ -1,5 +1,13 @@
 ## Hi there 👋
+Cytometry In R
 
+Location: Rio de Janeiro, RJ, Brazil
+
+My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
+
+Previous Coding Experience: Just one lonely class in pre-grad
+
+What I Hope to Get From This Course: An automatic way to analyze a bunch of cytometry data
 <!--
 **joaodpcm/joaodpcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
